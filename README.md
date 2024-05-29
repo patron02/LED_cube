@@ -11,8 +11,7 @@ Materials:
 - 3D printed base 
 
 Schematic (expanded to be 4x4x4):
-
-Wiring: 
+<img height="300" alt="image" src="https://github.com/patron02/LED_cube/assets/69320369/dbd232c9-aa30-4d59-8478-b4356fea0a98">
 
 Video: 
 
